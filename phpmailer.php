@@ -6,7 +6,8 @@ require 'vendor/autoload.php';
 
  // comment
  // hello 
-
+ // hello 2
+ 
 $mail = new PHPMailer(true);                              // Passing `true` enables exceptions
 try {
     //Server settings
